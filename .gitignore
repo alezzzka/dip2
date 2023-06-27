@@ -1,0 +1,7 @@
+.git/
+__pycache__/
+
+start.py
+config_orig.py
+soc_vkontakte.py
+vk_config.v2.json
